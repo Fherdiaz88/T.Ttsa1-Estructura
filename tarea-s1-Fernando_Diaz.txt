@@ -1,0 +1,298 @@
+    1  git init
+    2  git add .
+    3  git init
+    4  git status
+    5  git init
+    6  git status
+    7  git init
+    8  git status
+    9  git add .
+   10  git status
+   11  git commit -m "Semana 6"
+   12  git branch -M main
+   13  git remote add origin https://github.com/Fherdiaz88/Repositorio-metodolog-a-Fernando-Diaz.git
+   14  git push -u origin main
+   15  git init
+   16  git status
+   17  git init
+   18  git status
+   19  git add
+   20  git add .
+   21  git status
+   22  git commit -m "Codigo2"
+   23  git branch -M main
+   24  git remote add origin https://github.com/Fherdiaz88/Repositorio-metodolog-a-Fernando-Diaz.git
+   25  git push -u origin main
+   26  git init
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "Codigodos"
+   31  git branch -M main
+   32  git remote add origin https://github.com/Fherdiaz88/Metodologia.git
+   33  git push -u origin main
+   34  /c
+   35  ls
+   36  /ERNANDO
+   37  /FERNANDO
+   38  FERNANDO/
+   39  /c/FERNANDO
+   40  cd FERNANDO
+   41  cd taller-git1
+   42  cd login
+   43  mkdir login
+   44  cd login
+   45  git init
+   46  ls.-a
+   47  ls -a
+   48  code .
+   49  git commit -m "index.html"
+   50  git add .
+   51  git commit -m "index.html"
+   52  git log
+   53  git commit -m "password and img"
+   54  git add .
+   55  git commit -m "password html"
+   56  git log
+   57  git add .
+   58  git commit -m "add style and fonts"
+   59  git add .
+   60  git commit -m "etiquetas html"
+   61  git login
+   62  git login .
+   63  git add .
+   64  git commit -m "logo responsive"
+   65  git log
+   66  git checkout 06fc4e240644ab84c84e10753ef7f5e657a54d63
+   67  cd C:\Users\DELL\FERNANDO\taller-git1
+   68  cd taller-git
+   69  cd Users
+   70  cd users
+   71  /
+   72  /c
+   73  cd login
+   74  cls
+   75  git branch develop
+   76  git branch
+   77  git cheakout develop
+   78  git checkout develop
+   79  git branch
+   80  code .
+   81  git add .
+   82  git commit -m "Client login html"
+   83  git status
+   84  git log
+   85  git add .
+   86  git commit -m "structure copy"
+   87  git add.
+   88  git commit -m "error correction"
+   89  git add .
+   90  git commit -m "error correction"
+   91  git log
+   92  git add .
+   93  git commit -m "change texts"
+   94  git checkout master
+   95  git merge develop
+   96  guit
+   97  git checkout master
+   98  git merge develop
+   99  git status
+  100  git log
+  101  git merge develop
+  102  cd FERNANDO
+  103  cd taller-git1
+  104  git log
+  105  cd FERNANDO
+  106  cd taller-git1
+  107  cd login
+  108  git cheackout develop
+  109  git checkout develop
+  110  ls -a
+  111  cd ..
+  112  ls -a
+  113  cd ..
+  114  ls -a
+  115  cd ..
+  116  cd ..
+  117  cd FERNANDO
+  118  ls
+  119  cd DELL
+  120  ls
+  121  cd FERNANDO
+  122  cd taller-git1
+  123  cd login
+  124  git checkout master
+  125  git remote add origin https://github.com/Fherdiaz88/Taller-git.git
+  126  git branch -M main
+  127  git push -u origin main
+  128  git add .
+  129  git status
+  130  git commit -m "css delete"
+  131  git push -u origin main
+  132  git checkout develop
+  133  git push -u origin develop
+  134  cd [200~C:\Users\DELL\Documents\SUDAM\Metodologias\Ciclo 1\Semana7~
+  135  cd $ cd C:\Users\DELL\Documents\SUDAM\Metodologias\Ciclo 1\Semana7
+  136  cd c
+  137  cd xampp
+  138  cd c
+  139  cd users
+  140  /c
+  141  cd users
+  142  ls
+  143  cd Documents
+  144  cd SUDAM
+  145  py --venv .env
+  146  py -m venv .env
+  147  mkdir practicas
+  148  py -m venv .env
+  149  cd practicas
+  150  py -m venv .env
+  151  source .env/Scripts/activate
+  152  pip install djanjo
+  153  pip install django
+  154  Django-admin startproject denuncias
+  155  ls
+  156  cd denuncias
+  157  code .
+  158  Django-admin startproject denuncias .
+  159  cd ..
+  160  Django-admin startproject denuncias .
+  161  ls
+  162  code .
+  163  code .
+  164  code .
+  165  code .
+  166  code .
+  167  code .
+  168  cd documentos
+  169  cd Documentos
+  170  cd Documentos
+  171  cd documentos
+  172  ls
+  173  cd Documents
+  174  cd SUDAM
+  175  cd practicas
+  176  code .
+  177  code .
+  178  cd Documents
+  179  cd SUDAM
+  180  cd practicas
+  181  code .
+  182  cd Documents
+  183  cd SUDAM
+  184  cd practicas
+  185  cd code .
+  186  code .
+  187  source .env/Script/activate
+  188  source .env/Scripts/activate
+  189  mosquitto_sub -h test.mosquitto.org -t "cultivo/#"
+  190  /c
+  191  cd Documents
+  192  cd SUDAM
+  193  cd CICLO 3
+  194  tree SUDAM
+  195  cd CICLO3
+  196  cd Herramientas
+  197  cd Momento 3
+  198  cd MOMENTO 3
+  199  cd MOMENTO3
+  200  cd MOMENTO 3
+  201  ls
+  202  cd MOMENTO 3
+  203  DIR
+  204  lsof -i :3008
+  205  cd documents
+  206  cd SUDAM
+  207  cd CICLO3
+  208  cd herramientas
+  209  cd Semana15
+  210  cd Semana 15
+  211  cd MOMENTO 3
+  212  cd MOMENTO 3
+  213  cd momento 3
+  214  cd Momento 3
+  215  MOMENTO3
+  216  cd MOMENTO3
+  217  tree
+  218  cd C:\Users\DELL\Documents\SUDAM\CICLO3\Herramientas\MOMENTO 3
+  219  cd MOMENTO 3
+  220  cd Momento 3
+  221  cd MOMENTO3
+  222  cd momento3
+  223  cd Momento3
+  224  cd MOMENTO 3
+  225  cd MOMENTO/3
+  226  cd "MOMENTO 3"
+  227  cd Semana15
+  228  git add .
+  229  git add .
+  230  git commit -m "commit de conexion microserv y graphql"
+  231  git commit -m "Agrego los nuevos directorios y archivos"
+  232  git add api-gateway/
+  233  git add chat-app/
+  234  git add graph/
+  235  git add time-microservice/
+  236  git add api-gateway/
+  237  git add chat-app/
+  238  git add graph/
+  239  git add time-microservice/
+  240  git push origin main
+  241  [200~netstat -ano | findstr :3306
+  242  netstat -ano | findstr :3306
+  243  cd documents
+  244  cd SUDAM
+  245  cd Tendencias tecnologicas
+  246  cd Tendencias_tecnologicas
+  247  [200~cd Tendencias\ tecnologicas
+  248  cd Tendencias\ tecnologicas
+  249  cd "Tendencias tecnologicas"
+  250  [200~
+  251  cd documents
+  252  cd SUDAM
+  253  cd Tendencias_tecnologicas
+  254  cd CICLO4
+  255  cd Tendencias_tecnologicas
+  256  cd Momento1
+  257  cd TA1_Estructura
+  258  mkdir -p proyecto_comandos/{documentos,imagenes,scripts}
+  259  cd proyectos_comandos
+  260  cd proyecto_comandos
+  261  cd documentos
+  262  touch notas.txt
+  263  echo "Primera línea: ..." > proyecto_comandos/documentos/notas.txt
+  264  cd notas.txt
+  265  echo "Hola, estas son mis notas." > notas.txt
+  266  echo "Hoy hablare de autos" > notas.txt
+  267  echo "Mi auto favorito es el Dodge challenger Hellcat Widebody Manual" > notas.txt
+  268  echo "Hoy hablare de autos" >> notas.txt
+  269  echo "Hola, estas son mis notas." >> notas.txt
+  270  cp proyecto_comandos/documentos/notas.txt proyecto_comandos/scripts/backup_notas.txt
+  271  cp notas.txt scripts/backup_notas.txt
+  272  cp notas.txt proyecto_comandos/scripts/backup_notas.txt
+  273  cp notas.txt ../scripts/backup_notas.txt
+  274  ls -la proyecto_comandos/scripts
+  275  ls ../scripts
+  276  mv proyecto_comandos/scripts/backup_notas.txt proyecto_comandos/imagenes/
+  277  mv backup_notas.txt ../imagenes
+  278  cd ..
+  279  cd scripts
+  280  mv backup_notas.txt ../imagenes
+  281  ls ../imagenes
+  282  cd ..
+  283  cd documentos}
+  284  cd documentos
+  285  touch resumen.txt
+  286  cat notas.txt > resumen.txt
+  287  [200~echo "Esta es una línea adicional para el resumen." >> resumen.txt
+  288  echo "Tengo que agregar que los autos son lo maximoooo" >> resumen.txt
+  289  cat resumen.txt
+  290  rm ../imagenes/backup_notas.txt
+  291  ls imagenes
+  292  cd..
+  293  ls imagenes
+  294  cd ..
+  295  ls imagenes
+  296  cd documentos
+  297  rmdir ../imagenes
+  298  history | tee tarea-s1-Fernando_Diaz.txt
